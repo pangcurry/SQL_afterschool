@@ -1,5 +1,6 @@
 use class;
 select * from 교과목;
+-- 두팡 다녀감 (커밋 테스트)
 
 insert into student values 
 	(1122, "정소화", "공통과정", 2020),
